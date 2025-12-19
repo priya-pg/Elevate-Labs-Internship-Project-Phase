@@ -1,0 +1,17 @@
+,Feature,Importance
+0,Age,0.5565489990432129
+7,Waiting_Days,0.29053164122364145
+6,SMS_received,0.09669902048436325
+4,Alcoholism,0.02268387040985363
+1,Scholarship,0.017834288366426875
+3,Diabetes,0.010275770937756591
+9,Gender_M,0.0035335765512503497
+11,Week_Day_Monday,0.001892832983495051
+5,Handicap,0.0
+2,Hypertension,0.0
+8,Gender_F,0.0
+10,Week_Day_Friday,0.0
+12,Week_Day_Saturday,0.0
+13,Week_Day_Thursday,0.0
+14,Week_Day_Tuesday,0.0
+15,Week_Day_Wednesday,0.0
