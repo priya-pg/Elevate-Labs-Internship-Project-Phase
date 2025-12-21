@@ -32,6 +32,9 @@ Each project focuses on solving a real-world business problem using data analysi
 
 │   └── Business insights and optimization recommendations
 
+│
+
+├── Project Report (2 pages pdf)
 
 
 Each folder is a standalone project with its own dataset, analysis, and conclusions.
